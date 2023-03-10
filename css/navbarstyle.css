@@ -1,0 +1,25 @@
+a {
+    font-size:14px;
+    font-weight:800
+  }
+  .superNav {
+    font-size:13px;
+  }
+  .form-control {
+    outline:none !important;
+    box-shadow: none !important;
+  }
+  @media screen and (max-width:540px){
+    .centerOnMobile {
+      text-align:center
+    }
+  }
+
+  .bg-myblue{
+    background-color:#000000
+  }
+
+  .border-myblue{
+    border-color:#000000
+  }
+

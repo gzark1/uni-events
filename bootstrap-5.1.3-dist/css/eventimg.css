@@ -1,0 +1,8 @@
+.eventimg{position: relative; 
+left: 50%;
+transform: translateX(-50%);
+border-radius: 7px;}
+
+.eventimgr{position: relative; 
+    left: 72%;
+    transform: translateX(-50%);}

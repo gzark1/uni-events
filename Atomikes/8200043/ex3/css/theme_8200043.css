@@ -1,0 +1,35 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+   padding-top: 70px;
+  
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+
+footer {
+	/*background-color: #082457;*/
+	color: #fff;
+	padding: 20px 0;
+	position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
