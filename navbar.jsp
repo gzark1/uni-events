@@ -26,10 +26,8 @@ if(request.getAttribute("thisIsIndex") == null){
        <div class=" collapse navbar-collapse" id="navbarNavDropdown">
          <div class="ms-auto d-none d-lg-block">
            <div class="input-group">
-            <!-- <span class="border-primary input-group-text bg-primary text-white"><i class="fa-solid fa-magnifying-glass"></i></span> -->
              <form action="searchresults.jsp" method="post">
              <input type="text" class="form-control border-primary" placeholder="Search..." style="color:#7a7a7a" name="search" id="search">
-             <!--<button class="btn btn-primary text-white" role="button" type="submit">Search</button> --> 
             </form>   <!--exei svistei to data-bs-toggle-->
            </div>
          </div>
